@@ -2,10 +2,10 @@
 
 Python Script used to:
 
-Clean data
+- Clean data
 
-Create MySQL database
+- Create MySQL database
 
-Create MySQL table 
+- Create MySQL table 
 
-Load cleaned data into MySQL table
+- Load cleaned data into MySQL table
