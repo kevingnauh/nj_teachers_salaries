@@ -2,7 +2,7 @@
 
 Python Script used to:
 
-Clean nj state teachers salaries data
+Clean data
 
 Create MySQL database
 
