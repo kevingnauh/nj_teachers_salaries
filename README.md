@@ -1,4 +1,4 @@
-# nj_teachers_salaries
+# Clean and load nj_teachers_salaries
 
 Python Script used to:
 
